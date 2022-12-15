@@ -1,0 +1,141 @@
+body{
+    background-color: black;
+    color: #fff;
+    font-family: cursive;
+}
+
+.lol{
+    background-image: url(https://cdn.pixabay.com/photo/2017/12/20/16/49/christmas-3030279__340.jpg);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    color: #000;
+}
+
+.lol1{
+    background-color: rgba(7, 21, 66, 0.76);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 300px;
+}
+
+.spe{
+    position: absolute;
+    left: 10px;
+    top: 470px;
+    width: 280px;
+    height: 600px;
+}
+
+.spo{
+    position: absolute;
+    left: 10px;
+    top: 1100px;
+    width: 280px;
+    height: 650px;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(6, 65, 99);
+    padding:20px ;
+    color: white;
+    right: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.meme{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(4, 32, 48) ;
+    padding: 30px;
+    margin-left: 130px;
+    border-radius: 20px;
+    font-size: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+nav {
+    display: flex;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: rgb(6, 65, 99) ;
+    padding: 30px;
+}
+
+.nono:hover{
+    background-color: cadetblue;
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.new{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+}
+
+header a{
+    text-decoration: none;
+    color: #fff;
+    background-color:rgb(10, 38, 54) ;
+    padding: 20px;
+    border-radius: 10px;
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header a:hover{
+    border: 3px solid black;
+    background-color: cornflowerblue;
+    color: #000;
+}
+
+.nono:first-child:hover{
+    background-image: url(https://cdn.pixabay.com/photo/2013/10/27/17/14/snowfall-201496__340.jpg);
+}
+
+.nono:last-child:hover{
+    background-image: url(https://cdn.pixabay.com/photo/2015/12/06/20/10/christmas-bauble-1079926__340.jpg);
+}
+
+.non1:hover{
+    background-color: cadetblue;
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/15/22/25/gingerbread-men-3084961__340.jpg);
+}
+
+.non2:hover{
+    background-color: cadetblue;
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    background-image: url(https://cdn.pixabay.com/photo/2017/11/01/19/04/christmas-tree-2909020__340.jpg);
+}
+
+.seww{
+    width: 90px;
+    height: 100px;
+    position: absolute;
+    right: 10px;
+    top: 240px;
+}
